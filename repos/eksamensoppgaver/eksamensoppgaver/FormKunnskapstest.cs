@@ -9,6 +9,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+ PSEUDOKODE:
+
+    lastInnHighscore(){
+        hvis ikke txt fil eksisterer:
+            lag txt fil
+            sett inn dårlig highscore.
+        ellers:
+            last inn highscore fra fil.
+    }
+     
+Testplan:
+    Sjekk om lydene laster riktig, objektene er bundet til riktig lyd osv.
+    Sjekk om applikasjonen kan kræsje ved bytte av mp3 fil eller lignende.
+    Sjekk om highscore lagres riktig.
+*/
+
+
+
 namespace eksamensoppgaver
 {   
     public partial class FormKunnskapstest : Form
