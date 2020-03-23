@@ -1,0 +1,17 @@
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\bin\Debug\eksamensoppgaver.exe.config
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\bin\Debug\eksamensoppgaver.exe
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\bin\Debug\eksamensoppgaver.pdb
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.csprojAssemblyReference.cache
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.Form1.resources
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.Properties.Resources.resources
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.csproj.GenerateResource.cache
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.csproj.CoreCompileInputs.cache
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.exe
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.pdb
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.FormBestillBillett.resources
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\bin\Debug\Interop.WMPLib.dll
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\Interop.WMPLib.dll
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.csproj.ResolveComReference.cache
+C:\Users\MC\source\repos\eksamensoppgaver\eksamensoppgaver\obj\Debug\eksamensoppgaver.FormKunnskapstest.resources
